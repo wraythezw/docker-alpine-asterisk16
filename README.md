@@ -1,5 +1,5 @@
 # docker-alpine-asterisk16
-Alpine Linux + Asterisk 16/PJSIP
+Alpine Linux + Asterisk 16/PJSIP [Incomplete, Unusable right now]
 
 This is a really bare container, with the bare minimum config to get asterisk running with PJSIP and extensions.conf.
 
