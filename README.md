@@ -6,7 +6,7 @@ This is a really bare container, with the bare minimum config to get asterisk ru
 I am using this as the base for a callcenter project, building onto the image as required.
 Originally i built the base image using Ubuntu18, but the image size came up to nearly 2.18 GB compared to the < 40 MB Alpine image this generates.
 
-#Notes
+# Notes
 ARI + HTTP are ENABLED. Update http.conf and ari.conf if you do NOT want this to be enabled.
 
 
