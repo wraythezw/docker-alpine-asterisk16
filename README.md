@@ -1,6 +1,8 @@
 # docker-alpine-asterisk16
 Alpine Linux + Asterisk 16/PJSIP [Semi-stable, needs testing]
 
+Based on https://github.com/andrius/asterisk/alpine-latest
+
 This is a really bare container, with the bare minimum config to get asterisk running with PJSIP and extensions.conf.
 
 I am using this as the base for a callcenter project, building onto the image as required.
