@@ -27,6 +27,6 @@ docker build -t alpine-asterisk16 .
 docker run -t alpine-asterisk16
 
 
-#TODO
+# TODO
  -> Reduce verbosity on entrypoint.sh asterisk script to reduce load. Do not run this in console mode in production lest you want to see considerable CPU consumption!
  -> manager.conf to be added (when required)
